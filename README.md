@@ -1,3 +1,3 @@
-# WordCount
-This is a wordcount program that uses Mapper and Reducer classes to demonstrate the functioning of a MapReduce framework.
+# In-Mapper WordCount 
+Implementation of a custom in-mapper combiner class
 
